@@ -20,7 +20,7 @@
                 </div>
                 
                
-                {!! Form::submit("Sign up", ["class"=>"btn btn-primary btn-block"]) !!}
+                {!! Form::submit("Log in", ["class"=>"btn btn-primary btn-block"]) !!}
                 
             {!! Form::close() !!}
             
